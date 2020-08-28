@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Aaron Wang's Portfolio
 
 You can use the [editor on GitHub](https://github.com/aaWang27/PortfolioCompProg2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
