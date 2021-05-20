@@ -14,7 +14,7 @@ This project is a homework tracker for students. It allows them to add and remov
 ![alt text](https://github.com/aaWang27/HomeworkTracker/blob/main/images/HomeworkTracker.png)
 
 ## Executable jar File
-[Executable Jar File](https://github.com/aaWang27/Programming-2-Portfolio/blob/ae883a2772a333f407b6e25b88226bb156d9c2a7/HomeworkTracker/HomeworkTracker.jar)
+[Executable Jar File](https://github.com/aaWang27/Programming-2-Portfolio/raw/gh-pages/HomeworkTracker/HomeworkTracker.jar)
 
 ### Here is the flowchart for my project.
 
