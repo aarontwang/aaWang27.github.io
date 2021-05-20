@@ -25,4 +25,4 @@ I also used one ternary statement, and implemented Mouse listeners.
 * I also wanted to color code the assignments based on status.
 
 ## Documentation
-Video of Homework Tracker running
+[Video of Homework Tracker running](https://github.com/aaWang27/Programming-2-Portfolio/raw/gh-pages/HomeworkTracker/doc/demo.avi)
