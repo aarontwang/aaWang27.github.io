@@ -13,6 +13,9 @@ Personal Email: aatwang27@gmail.com
 This project is a homework tracker for students. It allows them to add and remove assignments.
 ![alt text](https://github.com/aaWang27/HomeworkTracker/blob/main/images/HomeworkTracker.png)
 
+## Executable jar File
+HomeworkTracker.jar
+
 ### Here is the flowchart for my project.
 
 
