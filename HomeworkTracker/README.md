@@ -1,7 +1,7 @@
 # 2020 CP2 Project: Homework Tracker
 This project is a homework tracker for students. It allows them to add and remove assignments.
 
-[Executable Jar File] (https://github.com/aaWang27/Programming-2-Portfolio/blob/gh-pages/HomeworkTracker/HomeworkTracker.jar)
+[Executable Jar File](https://github.com/aaWang27/Programming-2-Portfolio/blob/gh-pages/HomeworkTracker/HomeworkTracker.jar)
 
 ![alt text](https://github.com/aaWang27/HomeworkTracker/blob/main/images/HomeworkTracker.png)
 
