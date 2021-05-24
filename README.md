@@ -39,7 +39,7 @@ I also used one ternary statement, and implemented Mouse listeners.
 [Video of Homework Tracker running](https://github.com/aaWang27/Programming-2-Portfolio/raw/gh-pages/HomeworkTracker/doc/demo.avi)
 
 ## Temperature Converter
-This project allows the user to convert Fahrenheit to Celsius by entering a number or by dragging a slider. It utilizes GUI components.
+This project allows the user to convert Celsius to Fahrenheit by entering a number or by dragging a slider. It utilizes GUI components.
 
 ![alt text](https://github.com/aaWang27/Programming-2-Portfolio/blob/b3a993b6217a573d420cb93e45f653bad2686d70/TempConverter/tempConverterRunning.PNG)
 
