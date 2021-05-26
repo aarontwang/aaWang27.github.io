@@ -5,23 +5,25 @@ School Email: [aarowang9599@granitesd.org](mailto:aarowang9599@granitesd.org)
 
 Personal Email: [aatwang27@gmail.com](mailto:aatwang27@gmail.com)
 
-# Project
+# Projects
 
 ## Cretaceous Maze Adventure
 
 ## Homework Tracker
+
+#### Description
 This project is a homework tracker for students. It allows them to add and remove assignments.
 
 [Executable Jar File](https://github.com/aaWang27/Programming-2-Portfolio/raw/gh-pages/HomeworkTracker/HomeworkTracker.jar)
 
 ![](https://github.com/aaWang27/HomeworkTracker/blob/main/images/HomeworkTracker.png?raw=true)
 
-### Here is the flowchart for my project.
+#### Here is the flowchart for my project.
 
 
 ![](https://github.com/aaWang27/HomeworkTracker/blob/main/images/HomeworkTracker%20Flowchart.png?raw=true)
 
-### Year 2 Concepts
+#### Year 2 Concepts
 The Year 2 Concepts I used were:
 * GUI
 * Multidimensional arrays
@@ -30,12 +32,12 @@ The Year 2 Concepts I used were:
 
 I also used one ternary statement, and implemented Mouse listeners.
 
-### Future Updates
+#### Future Updates
 * One feature I want to incorporate is the ability for the user to save their assignments.
 * Settings for the user to decide how they want to organize the assignments would also be useful.
 * I also wanted to color code the assignments based on status.
 
-### Documentation
+#### Documentation
 [Video of Homework Tracker running](https://github.com/aaWang27/aaWang27.github.io/raw/gh-pages/HomeworkTracker/doc/homeworkTrackerDemo.avi)
 
 ## Temperature Converter
