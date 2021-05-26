@@ -1,6 +1,6 @@
 ## Welcome to Aaron Wang's Portfolio
 
-![Programming 2 Portfolio] (https://aawang27.github.io/ProgrammingPortfolio)
+[Programming 2 Portfolio](https://aawang27.github.io/ProgrammingPortfolio)
 
 You can use the [editor on GitHub](https://github.com/aaWang27/PortfolioCompProg2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
