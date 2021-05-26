@@ -14,12 +14,12 @@ This project is a homework tracker for students. It allows them to add and remov
 
 [Executable Jar File](https://github.com/aaWang27/Programming-2-Portfolio/raw/gh-pages/HomeworkTracker/HomeworkTracker.jar)
 
-![alt text](https://github.com/aaWang27/HomeworkTracker/blob/main/images/HomeworkTracker.png)
+![](https://github.com/aaWang27/HomeworkTracker/blob/main/images/HomeworkTracker.png?raw=true)
 
 ### Here is the flowchart for my project.
 
 
-![alt text](https://github.com/aaWang27/HomeworkTracker/blob/main/images/HomeworkTracker%20Flowchart.png)
+![](https://github.com/aaWang27/HomeworkTracker/blob/main/images/HomeworkTracker%20Flowchart.png?raw=true)
 
 ### Year 2 Concepts
 The Year 2 Concepts I used were:
@@ -41,7 +41,7 @@ I also used one ternary statement, and implemented Mouse listeners.
 ## Temperature Converter
 This project allows the user to convert Celsius to Fahrenheit by entering a number or by dragging a slider. It utilizes GUI components.
 
-![alt text](https://github.com/aaWang27/Programming-2-Portfolio/blob/b3a993b6217a573d420cb93e45f653bad2686d70/TempConverter/tempConverterRunning.PNG)
+![](https://github.com/aaWang27/Programming-2-Portfolio/blob/b3a993b6217a573d420cb93e45f653bad2686d70/TempConverter/tempConverterRunning.PNG?raw=true)
 
 [Executable Jar File](https://github.com/aaWang27/Programming-2-Portfolio/raw/gh-pages/TempConverter/tempConverter.jar)
 
