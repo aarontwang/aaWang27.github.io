@@ -10,6 +10,8 @@ Personal Email: [aatwang27@gmail.com](mailto:aatwang27@gmail.com)
 ## Cretaceous Maze Adventure
 
 ## Homework Tracker
+
+#### Description
 This project is a homework tracker for students. It allows them to add and remove assignments.
 
 [Executable Jar File](https://github.com/aaWang27/Programming-2-Portfolio/raw/gh-pages/HomeworkTracker/HomeworkTracker.jar)
