@@ -1,9 +1,9 @@
 # Programming 2 Portfolio
 Aaron Wang
 
-School Email: aarowang9599@granitesd.org
+School Email: <a href="mailto:aarowang9599@granitesd.org"></a>
 
-Personal Email: aatwang27@gmail.com
+Personal Email: <a href="mailto:aatwang27@gmail.com"></a>
 
 # Projects
 
