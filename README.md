@@ -45,6 +45,8 @@ I also used one ternary statement, and implemented Mouse listeners.
 
 ## Temperature Converter
 
+[Link to Temperature Converter Repository](https://github.com/aaWang27/TempConverter)
+
 #### Description
 
 This project allows the user to convert Celsius to Fahrenheit by entering a number or by dragging a slider. It utilizes GUI components.
