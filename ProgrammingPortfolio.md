@@ -18,8 +18,7 @@ This project is a homework tracker for students. It allows them to add and remov
 
 ![](https://github.com/aaWang27/HomeworkTracker/blob/main/images/HomeworkTracker.png?raw=true)
 
-#### Here is the flowchart for my project.
-
+#### GUI Mockups and Flowcharts
 
 ![](https://github.com/aaWang27/HomeworkTracker/blob/main/images/HomeworkTracker%20Flowchart.png?raw=true)
 
