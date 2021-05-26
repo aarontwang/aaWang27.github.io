@@ -1,7 +1,3 @@
-layout: page
-title: "Programming Portfolio"
-permalink: /ProgrammingPortfolio/
-
 # Programming 2 Portfolio
 Aaron Wang
 
@@ -9,7 +5,7 @@ School Email: [aarowang9599@granitesd.org](mailto:aarowang9599@granitesd.org)
 
 Personal Email: [aatwang27@gmail.com](mailto:aatwang27@gmail.com)
 
-# Projects
+# Project
 
 ## Cretaceous Maze Adventure
 
