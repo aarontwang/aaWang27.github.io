@@ -11,6 +11,8 @@ Personal Email: [aatwang27@gmail.com](mailto:aatwang27@gmail.com)
 
 ## Homework Tracker
 
+[Link to Homework Tracker](https://github.com/aaWang27/HomeworkTracker)
+
 #### Description
 This project is a homework tracker for students. It allows them to add and remove assignments.
 
@@ -42,6 +44,8 @@ I also used one ternary statement, and implemented Mouse listeners.
 * I also wanted to color code the assignments based on status.
 
 ## Temperature Converter
+
+[Link to Temperature Converter Repository](https://github.com/aaWang27/TempConverter)
 
 #### Description
 
