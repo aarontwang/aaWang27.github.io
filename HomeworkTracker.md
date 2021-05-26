@@ -1,5 +1,5 @@
 layout: page
-title: "Homework Tracker"
+title: "Homework Tracker Project"
 permalink: /ProgrammingPortfolio/HomeworkTracker/
 
 ## Homework Tracker
