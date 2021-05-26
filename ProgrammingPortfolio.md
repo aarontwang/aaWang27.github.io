@@ -50,4 +50,3 @@ This project allows the user to convert Celsius to Fahrenheit by entering a numb
 [Executable Jar File](https://github.com/aaWang27/Programming-2-Portfolio/raw/gh-pages/TempConverter/tempConverter.jar)
 
 ## TicTacToe Game
-/
