@@ -36,7 +36,7 @@ I also used one ternary statement, and implemented Mouse listeners.
 * I also wanted to color code the assignments based on status.
 
 ### Documentation
-[Video of Homework Tracker running](https://github.com/aaWang27/Programming-2-Portfolio/raw/gh-pages/HomeworkTracker/doc/demo.avi)
+[Video of Homework Tracker running](https://github.com/aaWang27/aaWang27.github.io/raw/gh-pages/HomeworkTracker/doc/homeworkTrackerDemo.avi)
 
 ## Temperature Converter
 This project allows the user to convert Celsius to Fahrenheit by entering a number or by dragging a slider. It utilizes GUI components.
