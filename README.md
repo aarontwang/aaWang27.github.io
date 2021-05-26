@@ -11,6 +11,8 @@ Personal Email: [aatwang27@gmail.com](mailto:aatwang27@gmail.com)
 
 ## Homework Tracker
 
+[Link to Homework Tracker Repository](https://github.com/aaWang27/HomeworkTracker)
+
 #### Description
 This project is a homework tracker for students. It allows them to add and remove assignments.
 
@@ -54,6 +56,8 @@ This project allows the user to convert Celsius to Fahrenheit by entering a numb
 [Source Code](https://github.com/aaWang27/aaWang27.github.io/raw/gh-pages/TempConverter/src/TempConverterCode.zip)
 
 ## TicTacToe Game
+
+[Link to TicTacToe Repository](https://github.com/aaWang27/TicTacToeGame)
 
 #### Description
 
