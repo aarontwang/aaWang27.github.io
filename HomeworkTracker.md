@@ -1,4 +1,4 @@
-permalink: /ProgrammingPortfolio/HomeworkTracker
+permalink: /ProgrammingPortfolio/HomeworkTracker/
 
 ## Homework Tracker
 
