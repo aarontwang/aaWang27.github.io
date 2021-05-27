@@ -9,3 +9,7 @@ This project is a simple calculator that allows for addition, subtraction, multi
 [Source Code](https://github.com/aaWang27/aaWang27.github.io/raw/gh-pages/Calculator/CalculatorCode.zip)
 
 ### Images of Application Running
+
+![](https://github.com/aaWang27/aaWang27.github.io/blob/gh-pages/Calculator/images/CalculatorStart.PNG?raw=true)
+
+[Video of Calculator Running](https://github.com/aaWang27/aaWang27.github.io/raw/gh-pages/Calculator/images/CalculatorRunning.avi)
