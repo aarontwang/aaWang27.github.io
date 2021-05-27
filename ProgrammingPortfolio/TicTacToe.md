@@ -1,7 +1,3 @@
-layout: page
-title: "TicTacToe"
-permalink: /ProgrammingPortfolio/TicTacToe/
-
 # TicTacToe Game
 
 [Link to TicTacToe Repository](https://github.com/aaWang27/TicTacToeGame)
