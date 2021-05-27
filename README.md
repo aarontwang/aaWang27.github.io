@@ -72,11 +72,9 @@ This is not what the final game will look like because we are going to switch to
 ![](https://github.com/aaWang27/aaWang27.github.io/blob/gh-pages/CretaceousMazeAdventure/logo/levelone.JPG?raw=true)
 
 Level 1 Demonstration
-
 ![](https://github.com/aaWang27/aaWang27.github.io/blob/gh-pages/CretaceousMazeAdventure/logo/demo1.PNG?raw=true)
 
 Level 2 Demonstration
-
 ![](https://github.com/aaWang27/aaWang27.github.io/blob/gh-pages/CretaceousMazeAdventure/logo/demo2.PNG?raw=true)
 
 
@@ -114,6 +112,7 @@ I also used one ternary statement, and implemented Mouse listeners.
 * Settings for the user to decide how they want to organize the assignments would also be useful.
 * I also wanted to color code the assignments based on status.
 
+
 ## TicTacToe Game
 
 [Link to TicTacToe Repository](https://github.com/aaWang27/TicTacToeGame)
@@ -138,6 +137,7 @@ This project implements the game of TicTacToe in a graphical user interface, all
 
 ![](https://github.com/aaWang27/aaWang27.github.io/blob/gh-pages/TicTacToe/images/TicTacToeRunning4.PNG?raw=true)
 
+
 ## Calculator
 
 [Link to Calculator Repository](https://github.com/aaWang27/Calculator)
@@ -155,6 +155,7 @@ This project is a simple calculator that allows for addition, subtraction, multi
 ![](https://github.com/aaWang27/aaWang27.github.io/blob/gh-pages/Calculator/images/CalculatorStart.PNG?raw=true)
 
 [Video of Calculator Running](https://github.com/aaWang27/aaWang27.github.io/raw/gh-pages/Calculator/images/CalculatorRunning.avi)
+
 
 ## Temperature Converter
 
