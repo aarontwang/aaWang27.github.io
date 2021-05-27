@@ -7,5 +7,3 @@ School Email: [aarowang9599@granitesd.org](mailto:aarowang9599@granitesd.org)
 Personal Email: [aatwang27@gmail.com](mailto:aatwang27@gmail.com)
 
 [Programming 2 Portfolio](https://aawang27.github.io/ProgrammingPortfolio)
-
-[Homework Tracker](https://aawang27.github.io/ProgrammingPortfolio/HomeworkTracker)
