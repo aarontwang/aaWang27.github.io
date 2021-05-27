@@ -9,7 +9,7 @@ Email: [aatwang27@gmail.com](mailto:aatwang27@gmail.com)
 
 [Cretaceous Maze Adventure](https://aawang27.github.io/ProgrammingPortfolio/CretaceousMazeAdventure)
 
-[Link to Cretaceous Maze Adventure Repository](https://github.com/jonathanwidmer/programmingroupproject)
+[Link to Cretaceous Maze Adventure Repository](https://github.com/aaWang27/programmingroupproject)
 
 ## Homework Tracker
 
