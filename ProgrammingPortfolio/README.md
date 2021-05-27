@@ -1,4 +1,4 @@
-# Programming 2 Portfolio
+# Programming Portfolio
 Aaron Wang
 
 Email: [aatwang27@gmail.com](mailto:aatwang27@gmail.com)
