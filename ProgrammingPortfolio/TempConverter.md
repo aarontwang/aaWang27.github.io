@@ -1,7 +1,3 @@
-layout: page
-title: "Temperature Converter"
-permalink: /ProgrammingPortfolio/TempConverter/
-
 # Temperature Converter
 
 [Link to Temperature Converter Repository](https://github.com/aaWang27/TempConverter)
