@@ -94,33 +94,12 @@ Level 2 Demonstration
 
 ## Calculator
 
+[Calculator](https://aawang27.github.io/ProgrammingPortfolio/Calculator)
+
 [Link to Calculator Repository](https://github.com/aaWang27/Calculator)
-
-### Description
-
-This project is a simple calculator that allows for addition, subtraction, multiplication, and division operations. The user can clear the display, and also use decimal points. If there is already one decimal point in the display, the calculator will prevent the user from adding another one. (e.g., 1.23 is acceptable, but the calculator will prevent 1.23.45) There is currently a rounding error in certain situations.
-
-[Executable Jar File](https://github.com/aaWang27/aaWang27.github.io/raw/gh-pages/Calculator/Calculator.jar)
-
-[Source Code](https://github.com/aaWang27/aaWang27.github.io/raw/gh-pages/Calculator/CalculatorCode.zip)
-
-### Images of Application Running
-
-![](https://github.com/aaWang27/aaWang27.github.io/blob/gh-pages/Calculator/images/CalculatorStart.PNG?raw=true)
-
-[Video of Calculator Running](https://github.com/aaWang27/aaWang27.github.io/raw/gh-pages/Calculator/images/CalculatorRunning.avi)
-
 
 ## Temperature Converter
 
+[Temperature Converter](https://aawang27.github.io/ProgrammingPortfolio/TempConverter)
+
 [Link to Temperature Converter Repository](https://github.com/aaWang27/TempConverter)
-
-### Description
-
-This project allows the user to convert Celsius to Fahrenheit by entering a number or by dragging a slider. It utilizes GUI components.
-
-![](https://github.com/aaWang27/Programming-2-Portfolio/blob/b3a993b6217a573d420cb93e45f653bad2686d70/TempConverter/tempConverterRunning.PNG?raw=true)
-
-[Executable Jar File](https://github.com/aaWang27/Programming-2-Portfolio/raw/gh-pages/TempConverter/tempConverter.jar)
-
-[Source Code](https://github.com/aaWang27/aaWang27.github.io/raw/gh-pages/TempConverter/src/TempConverterCode.zip)
