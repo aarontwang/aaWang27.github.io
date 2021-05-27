@@ -72,9 +72,11 @@ This is not what the final game will look like because we are going to switch to
 ![](https://github.com/aaWang27/aaWang27.github.io/blob/gh-pages/CretaceousMazeAdventure/logo/levelone.JPG?raw=true)
 
 Level 1 Demonstration
+
 ![](https://github.com/aaWang27/aaWang27.github.io/blob/gh-pages/CretaceousMazeAdventure/logo/demo1.PNG?raw=true)
 
 Level 2 Demonstration
+
 ![](https://github.com/aaWang27/aaWang27.github.io/blob/gh-pages/CretaceousMazeAdventure/logo/demo2.PNG?raw=true)
 
 
