@@ -1,3 +1,7 @@
+layout: page
+title: "Calculator"
+permalink: /ProgrammingPortfolio/Calculator/
+
 # Calculator
 
 [Link to Calculator Repository](https://github.com/aaWang27/Calculator)
