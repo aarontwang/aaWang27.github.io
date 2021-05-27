@@ -1,6 +1,6 @@
 layout: page
 title: "HomeworkTracker"
-permalink: /ProgrammingPortfolio/HomeworkTracker/
+permalink: /HomeworkTracker/
 
 # Homework Tracker
 
