@@ -1,7 +1,3 @@
-layout: page
-title: "Homework Tracker"
-permalink: /ProgrammingPortfolio/HomeworkTracker/
-
 # Homework Tracker
 
 ### Description
