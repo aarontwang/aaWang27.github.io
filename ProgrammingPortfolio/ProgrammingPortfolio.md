@@ -1,4 +1,8 @@
-# Programming 2 Portfolio
+layout: page
+title: "Programming Portfolio"
+permalink: /ProgrammingPortfolio/
+
+# Programming Portfolio
 Aaron Wang
 
 School Email: [aarowang9599@granitesd.org](mailto:aarowang9599@granitesd.org)
