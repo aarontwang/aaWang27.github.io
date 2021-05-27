@@ -1,11 +1,13 @@
 # Homework Tracker
 
-### Description
-This project is a homework tracker for students. It allows them to add and remove assignments.
+[Link to Homework Tracker Repository](https://github.com/aaWang27/HomeworkTracker)
 
 [Executable Jar File](https://github.com/aaWang27/Programming-2-Portfolio/raw/gh-pages/HomeworkTracker/HomeworkTracker.jar)
 
 [Source Code](https://github.com/aaWang27/aaWang27.github.io/raw/gh-pages/HomeworkTracker/src/HomeworkTrackerCode.zip)
+
+### Description
+This project is a homework tracker for students. It allows them to add and remove assignments.
 
 ### GUI Mockups and Flowcharts
 
