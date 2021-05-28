@@ -175,9 +175,9 @@ This project allows the user to convert Celsius to Fahrenheit by entering a numb
 
 ## TriangleDrawer
 
-[Executable Jar File](https://github.com/aaWang27/aaWang27.github.io/blob/gh-pages/TriangleDrawer/TriangleDrawer.jar)
+[Executable Jar File](https://github.com/aaWang27/aaWang27.github.io/raw/gh-pages/TriangleDrawer/TriangleDrawer.jar)
 
-[Source Code](https://github.com/aaWang27/aaWang27.github.io/blob/gh-pages/TriangleDrawer/TriangleDrawerCode.zip)
+[Source Code](https://github.com/aaWang27/aaWang27.github.io/raw/gh-pages/TriangleDrawer/TriangleDrawerCode.zip)
 
 ### Description
 
