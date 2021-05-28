@@ -34,3 +34,9 @@ Email: [aatwang27@gmail.com](mailto:aatwang27@gmail.com)
 [Temperature Converter](https://aawang27.github.io/ProgrammingPortfolio/TempConverter)
 
 [Link to Temperature Converter Repository](https://github.com/aaWang27/TempConverter)
+
+## Triangle Drawer
+
+[Triangle Drawer](https://aawang27.github.io/ProgrammingPortfolio/TriangleDrawer)
+
+[Link to Triangle Drawer Repository](https://github.com/aaWang27/TriangleDrawer)
