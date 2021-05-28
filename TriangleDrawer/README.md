@@ -6,6 +6,6 @@
 
 ## Description
 
-This application allows the user to draw a triangle by clickinig on three pointns inside the frame, and clear the drawing by clicking on the frame a fourth time.
+This application allows the user to draw a triangle by clickinig on three points inside the frame, and clear the drawing by clicking on the frame a fourth time.
 
 ## Images of Application Running
