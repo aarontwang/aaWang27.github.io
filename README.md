@@ -172,3 +172,15 @@ This project allows the user to convert Celsius to Fahrenheit by entering a numb
 ### Images of Application Running
 
 ![](https://github.com/aaWang27/Programming-2-Portfolio/blob/b3a993b6217a573d420cb93e45f653bad2686d70/TempConverter/tempConverterRunning.PNG?raw=true)
+
+## TriangleDrawer
+
+[Executable Jar File](https://github.com/aaWang27/TriangleDrawer/raw/main/TriangleDrawer.jar)
+
+[Source Code](https://github.com/aaWang27/TriangleDrawer/raw/main/TriangleDrawerCode.zip)
+
+### Description
+
+This application allows the user to draw a triangle by clickinig on three points inside the frame, and clear the drawing by clicking on the frame a fourth time.
+
+### Images of Application Running
